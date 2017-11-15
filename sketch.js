@@ -29,7 +29,7 @@ function draw() {
 	image(myBackground, 0, 0, 500, 500);
   
   fill(0);
-  rect(90, 230, 310, 60);
+  rect(90, 230, 310, 65);
   
   textSize(20);
   //fill(250);
